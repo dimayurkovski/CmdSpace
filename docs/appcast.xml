@@ -9,9 +9,9 @@
       <pubDate>Tue, 22 Apr 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://github.com/dimayurkovski/CmdSpace/releases/download/v1.0.0/CmdSpace.dmg"
-        length="REPLACE_WITH_LENGTH"
+        length="3655336"
         type="application/octet-stream"
-        sparkle:edSignature="REPLACE_WITH_SIGNATURE"
+        sparkle:edSignature="+/klkJMwOUObY2NOdvKkSPnL0IBLIrGmEMfBlJKC37x/wajzH9OzAT5l8Jn8WjNzQy/3ozMDerxq284NDZ/7AA=="
       />
     </item>
   </channel>
