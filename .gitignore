@@ -60,3 +60,29 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Xcode
+build/
+*.xcarchive
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.hmap
+*.ipa
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Release artifacts
+*.dmg
+*.zip
+*.app
+
+# Sparkle keys (if stored locally)
+sparkle_private_key
+
+# Internal docs
+RELEASE.md
